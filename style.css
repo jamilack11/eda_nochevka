@@ -12,12 +12,8 @@ body {
 h1 {font-size: 32px}
 h2 {font-size: 24px}
 
-#logo {
-	width: 194px;
-	height: 34px;
-}
-
 #article {
 	max-width: 780px;
-	margin: 0 auto
+	margin: 0 auto; 
+	padding: 25px;
 }
