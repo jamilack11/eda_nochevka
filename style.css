@@ -1,5 +1,10 @@
 @charset "utf-8";
-@import url('http://fonts.fontstorage.com/import/cheeseusaceu.css');
+@font-face {
+    font-family: 'Cheeseusaceu';
+    src: local('cheeseusaceu'), url('https://hb.bizmrg.com/fonts/cheeseusaceu/400.woff2') format('woff2'), url('https://hb.bizmrg.com/fonts/cheeseusaceu/400.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}
 
 body {
 	font-family: 'Cheeseusaceu';
