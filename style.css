@@ -1,8 +1,8 @@
 @charset "utf-8";
-@import "http://fonts.fontstorage.com/import/cheeseusaceu.css";
+@import url('http://fonts.fontstorage.com/import/cheeseusaceu.css');
 
 body {
-    font-family: 'Cheeseusaceu';
+	font-family: 'Cheeseusaceu';
 	font-size: 20px;
 	text-shadow: 0 0 6px #ff496c;
 	color: #F1E6FF;
